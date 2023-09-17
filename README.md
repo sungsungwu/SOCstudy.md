@@ -1,1 +1,2 @@
 # SOCstudy.md
+readme
