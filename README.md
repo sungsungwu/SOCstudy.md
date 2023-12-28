@@ -1,2 +1,6 @@
-# SOCstudy.md
-readme
+# SOCStudyJournal.md
+
+studyjournal
+
+lab3
+
